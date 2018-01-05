@@ -1,131 +1,157 @@
 [
   {
     "id": 1,
+    "name": "Ana",
     "image": "/assets/images/ana.png",
     "clicked": false
   },
   {
     "id": 2,
+    "name": "Bastion",
     "image": "/assets/images/bastion.png",
     "clicked": false
   },
   {
     "id": 3,
+    "name": "Doomfist",
     "image": "/assets/images/doomfist.jpg",
     "clicked": false
   },
   {
     "id": 4,
+    "name": "D.Va",
     "image": "/assets/images/dva.png",
     "clicked": false
   },
   {
     "id": 5,
+    "name": "Genji",
     "image": "/assets/images/genji.png",
     "clicked": false
   },
   {
     "id": 6,
+    "name": "Hanzo",
     "image": "/assets/images/hanzo.png",
     "clicked": false
   },
   {
     "id": 7,
+    "name": "Junkrat",
     "image": "/assets/images/junkrat.jpg",
     "clicked": false
   },
   {
     "id": 8,
+    "name": "Lucio",
     "image": "/assets/images/lucio.png",
     "clicked": false
   },
   {
     "id": 9,
+    "name": "Mcree",
     "image": "/assets/images/mcree.jpg",
     "clicked": false
   },
   {
     "id": 10,
+    "name": "Mei",
     "image": "/assets/images/mei.jpg",
     "clicked": false
   },
   {
     "id": 11,
+    "name": "Mercy",
     "image": "/assets/images/mercy.png",
     "clicked": false
   },
   {
     "id": 12,
+    "name": "Moira",
     "image": "/assets/images/moira.jpg",
     "clicked": false
   },
   {
     "id": 13,
+    "name": "Orisa and Efi",
     "image": "/assets/images/orisa&efi.jpg",
     "clicked": false
   },
   {
     "id": 14,
+    "name": "Pharah",
     "image": "/assets/images/pharah.jpg",
     "clicked": false
   },
   {
     "id": 15,
+    "name": "Reaper",
     "image": "/assets/images/reaper.jpg",
     "clicked": false
   },
   {
     "id": 16,
+    "name": "Reinhardt",
     "image": "/assets/images/reinhardt.jpg",
     "clicked": false
   },
   {
     "id": 17,
+    "name": "Roadhog",
     "image": "/assets/images/roadhog.png",
     "clicked": false
   },
   {
     "id": 18,
+    "name": "Soldier 76",
     "image": "/assets/images/soldier76.png",
     "clicked": false
   },
   {
     "id": 19,
+    "name": "Sombra",
     "image": "/assets/images/sombra.jpg",
     "clicked": false
   },
   {
     "id": 20,
+    "name": "Symmetra",
     "image": "/assets/images/symmetra.png",
     "clicked": false
   },
   {
     "id": 21,
+    "name": "Torbjorn",
     "image": "/assets/images/torbjorn.jpg",
     "clicked": false
   },
   {
     "id": 22,
+    "name": "Tracer",
     "image": "/assets/images/tracer.jpg",
     "clicked": false
   },
   {
     "id": 23,
+    "name": "Widowmaker",
     "image": "/assets/images/widowmaker.jpg",
     "clicked": false
   },
   {
     "id": 24,
+    "name": "Winston",
     "image": "/assets/images/winston.png",
     "clicked": false
   },
   {
     "id": 25,
+    "name": "Zarya",
     "image": "/assets/images/zarya.png",
     "clicked": false
   },
   {
     "id": 26,
+    "name": "Zenyatta",
     "image": "/assets/images/zenyatta.jpg",
     "clicked": false
   }
